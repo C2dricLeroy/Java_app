@@ -15,9 +15,6 @@ public class Room {
 		this.price = price;
 		this.isAvailable = isAvailable;
 	}
-	public Room() {
-	
-	}
 	
 	public static Room[] createRoom() {
 		Room[] rooms = new Room[31];

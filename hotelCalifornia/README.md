@@ -60,7 +60,7 @@ Il serait possible de complexifier notre application en construisant un objet pr
 
 Aucune banque de donnée contenant les commodités associées à la catégorie n'est présent. Nous décidons de construire une classe RoomCategory, contenant les commodités, et le numéro de catégorie.
 
-Interface pour réservation ???
+
 
 ### L'application
 
@@ -85,6 +85,8 @@ En fonction de la catégorie choisie, le prix pour une nuit est affiché et l'ut
 ### Pistes d'amélioration
 
 - Options d'annulation ou de retour en arrière en cours de réservation.
-- La possibilité d'arrêter le programme.
+- La possibilité d'arrêter le programme, revenir au début.
 - Construction d'une méthode acceptant un code de promotion.
 - Amélioration de l'expérience utilisateur par un affichage des catégories uniquement disponibles. 
+- Meilleure gestion des erreurs lorsque l'utilisateur demande une chambre et une catégorie qui n'existe pas. 
+- Meilleur affichage des commodités. 
