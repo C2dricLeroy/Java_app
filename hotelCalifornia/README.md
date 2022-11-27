@@ -15,11 +15,11 @@ L'hôtel gère des chambres permettant de recevoir de une à quatre personnes et
 L'hôtel est constitué de  ??? chambres? 
 Le prix de la chambre varie selon la capacité de la chambre et sa catégorie, ces informations sont regroupées dans ce tableau : 
 
-[table des Prix](tabPrix.jpg)
+![table des Prix](tabPrix.jpg)
 
 Le programme doit afficher la liste de ce que possède la chambre : 
 
-[table des features](tabFeatures.jpg)
+![table des features](tabFeatures.jpg)
 
 
 Stack : 
@@ -66,20 +66,21 @@ Aucune banque de donnée contenant les commodités associées à la catégorie n
 
 Au lancement de l'application, un message de bienvenue est affiché. 
 
-[screenshot]
+![screenshot](capture_1.png)
 
 Suite à ce message, l'utilisateur est invité à rentrer le nombre de personnes pour lesquelles il souhaite réserver.
 
-[screenshot]
+![screenshot](Capture_2.png)
 
 Les listes des catégories et de leurs commodités sont affichées à l'utilisateur pour un choix. 
 
-[screenshot]
+![screenshot](capture_3.png)
 
 En fonction de la catégorie choisie, le prix pour une nuit est affiché et l'utilisateur est invité à confirmer son choix. 
 
-[screenshot]
+![screenshot](capture_4.png)
 
+___
 
 
 ### Pistes d'amélioration
